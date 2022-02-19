@@ -1,4 +1,5 @@
 # Feature-Player_Single_Double_Jump
 
-A fun project where you will learn how to make different player jumps
+This is the solution branch for player jump project. Please go through the project files for the solutions.
+
  

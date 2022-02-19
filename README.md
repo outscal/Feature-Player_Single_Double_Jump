@@ -4,7 +4,7 @@ This project shows how to make player jump in Unity. Player can make single, dou
 
 # Assets
 
-You can use the assets from this branch to create the project that shows player jump.
+You can use the assets from solution branch to create the project that shows player jump.
 
 # Instructions
 
